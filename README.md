@@ -1,6 +1,6 @@
-# sr-generator README
+# bsr-generator README
 
-This is the README for your extension "sr-generator". After writing up a brief description, we recommend including the following sections.
+Bloc, Service, Repository Generator Vs Code Extenstion
 
 ## Features
 
